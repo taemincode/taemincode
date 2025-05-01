@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a 13-year-old student from Wrocław, Poland 🇵🇱, 
 |--------|-------------|--------|
 | 📧 Spam Classifier | ML model to detect spam emails using logistic regression | 🛠 Planned |
 | 🔢 Digit Recognizer | Classify handwritten digits using scikit-learn | 🛠 Planned |
-| 🎓 CS50 Final Project | My completed CS50 project | ✅ Complete
+| 🎓 CS50 Final Project | [My completed CS50 project](https://youtu.be/BfFKZ4jtHRA) | ✅ Complete
 
 ---
 
