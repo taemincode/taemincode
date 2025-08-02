@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Taemin Park
 
-Welcome to my GitHub! I'm a 13-year-old student from Wrocław, Poland 🇵🇱, originally from South Korea 🇰🇷. I love building things with code and exploring the world of AI 🤖, machine learning, and computer science!
+Welcome to my GitHub! I'm a 14-year-old student from Wrocław, Poland 🇵🇱, originally from South Korea 🇰🇷. I love building things with code and exploring the world of AI 🤖, machine learning, and computer science!
 
 ---
 
