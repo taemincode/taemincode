@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a 14-year-old student from Wrocław, Poland 🇵🇱, 
 - 📘 Currently taking [Andrew Ng’s Supervised Machine Learning Course](https://www.coursera.org/learn/machine-learning)
 - 🧠 Learning Python, AI fundamentals, and math for ML
 
---
+---
 
 ## 🎯 Goals for 2025
 
