@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a 14-year-old student from Wrocław, Poland 🇵🇱, 
 
 ## 📫 How to Reach Me
 
-- Email: taemin.chess@gmail.com
+- Email: welcome.taemin@gmail.com
 - Languages: 🇰🇷 Korean, 🇬🇧 English
 - Always learning, always curious 😎
 
