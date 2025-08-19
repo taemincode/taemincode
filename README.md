@@ -4,6 +4,12 @@ Welcome to my GitHub! I'm a 14-year-old student from Wrocław, Poland 🇵🇱, 
 
 ---
 
+## 🌐 My Homepage
+
+- My personal website: [taemincode.github.io](https://taemincode.github.io/)
+
+---
+
 ## 🚀 What I'm Doing
 
 - ✅ Finished [CS50x: Harvard’s Introduction to Computer Science](https://cs50.harvard.edu/x/)
