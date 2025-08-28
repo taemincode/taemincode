@@ -12,18 +12,18 @@ Welcome to my GitHub! I'm a 14-year-old student from Wrocław, Poland 🇵🇱, 
 
 ## 🚀 What I'm Doing
 
-- ✅ Finished [CS50x: Harvard’s Introduction to Computer Science](https://cs50.harvard.edu/x/)
-- 📘 Currently taking [Andrew Ng’s Supervised Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+- ✅ Finished [CS50x](https://cs50.harvard.edu/x/), [Andrew Ng’s Supervised Machine Learning](https://www.coursera.org/learn/machine-learning)
+- 📘 Currently taking [Andrew Ng’s Supervised Deep Learning](https://www.coursera.org/specializations/deep-learning)
 - 🧠 Learning Python, AI fundamentals, and math for ML
 
 ---
 
 ## 🎯 Goals for 2025
 
-- 🧠 Finish the ML and Deep Learning Specialization
-- 🧪 Build chatbots using OpenAI or Hugging Face
-- 📝 Share what I learn in blog posts or YouTube videos
-- 🔧 Build a portfolio website with GitHub Pages
+- 🧠 Finish Machine Learning Specialization ✅
+- 🧪 Build chatbots using OpenAI or Hugging Face ✅
+- 📝 Share what I learn in blog posts or YouTube videos ✅
+- 🔧 Build a portfolio website with GitHub Pages ✅
 
 ---
 
@@ -35,4 +35,4 @@ Welcome to my GitHub! I'm a 14-year-old student from Wrocław, Poland 🇵🇱, 
 
 ---
 
-> "The people who are crazy enough to think they can change the world are the ones who do." – Steve Jobs
+> “Be kind, be retaliatory, be forgiving, be clear.” – Robert Axelrod
